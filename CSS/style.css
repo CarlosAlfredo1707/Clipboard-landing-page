@@ -7,6 +7,9 @@
     --Grayish-Blue: hsl(201, 11%, 66%);
 
 }
+body {
+    overflow-x: hidden;
+}
 * {
     box-sizing: border-box;
     font-family: 'Bai Jamjuree', sans-serif;
